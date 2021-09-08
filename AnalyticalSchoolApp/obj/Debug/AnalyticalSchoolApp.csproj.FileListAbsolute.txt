@@ -1,0 +1,12 @@
+C:\Users\kiwih_000\source\repos\AnalyticalSchoolApp\AnalyticalSchoolApp\obj\Debug\AnalyticalSchoolApp.csprojAssemblyReference.cache
+C:\Users\kiwih_000\source\repos\AnalyticalSchoolApp\AnalyticalSchoolApp\obj\Debug\AnalyticalSchoolApp.FormHelp.resources
+C:\Users\kiwih_000\source\repos\AnalyticalSchoolApp\AnalyticalSchoolApp\obj\Debug\AnalyticalSchoolApp.FormMain.resources
+C:\Users\kiwih_000\source\repos\AnalyticalSchoolApp\AnalyticalSchoolApp\obj\Debug\AnalyticalSchoolApp.FormOpenFile.resources
+C:\Users\kiwih_000\source\repos\AnalyticalSchoolApp\AnalyticalSchoolApp\obj\Debug\AnalyticalSchoolApp.Properties.Resources.resources
+C:\Users\kiwih_000\source\repos\AnalyticalSchoolApp\AnalyticalSchoolApp\obj\Debug\AnalyticalSchoolApp.csproj.GenerateResource.cache
+C:\Users\kiwih_000\source\repos\AnalyticalSchoolApp\AnalyticalSchoolApp\obj\Debug\AnalyticalSchoolApp.csproj.CoreCompileInputs.cache
+C:\Users\kiwih_000\source\repos\AnalyticalSchoolApp\AnalyticalSchoolApp\bin\Debug\AnalyticalSchoolApp.exe.config
+C:\Users\kiwih_000\source\repos\AnalyticalSchoolApp\AnalyticalSchoolApp\bin\Debug\AnalyticalSchoolApp.exe
+C:\Users\kiwih_000\source\repos\AnalyticalSchoolApp\AnalyticalSchoolApp\bin\Debug\AnalyticalSchoolApp.pdb
+C:\Users\kiwih_000\source\repos\AnalyticalSchoolApp\AnalyticalSchoolApp\obj\Debug\AnalyticalSchoolApp.exe
+C:\Users\kiwih_000\source\repos\AnalyticalSchoolApp\AnalyticalSchoolApp\obj\Debug\AnalyticalSchoolApp.pdb
